@@ -1,2 +1,2 @@
-Hi, I’m Navaneeth P.
+Hi, I’m Navaneeth.
 Me developer :)
