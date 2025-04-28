@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">A developer from India 🌍 Coding my way through the universe.<br><br>- 🔭 I’m working as Developer<br>- 📚 I'm currently learning C# ASP.NET</p>
+<p align="left">A developer from India 🌍 Coding my way through the universe.<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning C# ASP.NET Application development</p>
 
 ###
 
