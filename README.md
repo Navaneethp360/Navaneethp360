@@ -21,13 +21,15 @@
 <img src="https://github.com/user-attachments/assets/9ec3fed0-45ff-4cb3-988c-f8cd66e85082">
 </p>
 
+<h1 align="center">Hi I'm Navaneeth 👋</h1>
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">A developer from India 🌍 Coding my way through the universe.<br><br>- 🔭 I’m working as an Application Developer<br>- 📚 I'm currently learning C# ASP.NET Application development</p>
+<p align="left">A developer from India 🌍 Coding my way through the universe.<br><br>- 🔭 I’m working as an Application Developer<br>- 📚 I'm currently learning C# ASP.NET Application development along with Docker</p>
 
 ###
 
