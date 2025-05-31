@@ -22,6 +22,7 @@
 </p>
 
 <h1 align="center">Hi I'm Navaneeth 👋</h1>
+![bar](https://github.com/user-attachments/assets/241bd232-5da8-44d8-90e8-b8271180dfcb)
 
 ###
 
